@@ -1,2 +1,5 @@
-# BlenderRepo
-This repository is where I save my 3D models made in Blender
+# Blender Repo
+<img src="https://image.ibb.co/hv8atU/blender.png"/>
+
+## Description
+This is the repository for my 3D models made in Blender.
