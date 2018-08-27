@@ -1,5 +1,3 @@
-#### This folder contains all the 3D models
-
 # Index
 
 ## Rocking Horse
