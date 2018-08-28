@@ -11,4 +11,5 @@ This is a repository containing 3D models created in Blender and the respective 
 <p float="left">
 <img src="https://preview.ibb.co/m1KODU/5.png" width="250" height="200"/>
 <img src="https://image.ibb.co/jM5LV9/1.png" width="250" height="200"/>
+<img src="https://image.ibb.co/kLUnv9/10.png" width="250" height="200"/>
 </p>
