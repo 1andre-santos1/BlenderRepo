@@ -49,18 +49,18 @@ https://www.turbosquid.com/3d-models/pig-3d-model-1321514
 
 ## Acoustic Guitar
 <p float="left">
-<img src="https://static.turbosquid.com/Preview/2018/09/05__20_31_50/Solid_Front.PNG6B62F27C-4702-4FA8-B9E0-7798E42959FDDefault.jpg" width="200" height="150"/>
-<img src="https://static.turbosquid.com/Preview/2018/09/05__20_31_50/Solid_Arm.PNG87307489-9A5E-446A-BDE4-B714DE302BABDefault.jpg" width="200" height="150"/>
-<img src="https://static.turbosquid.com/Preview/2018/09/05__20_31_50/Solid_Back.PNG61639E30-8DE9-4993-B666-AFDBE2EADE52Default.jpg" width="200" height="150"/>
-<img src="https://static.turbosquid.com/Preview/2018/09/05__20_31_50/Solid_TopArm.PNGAF331AF4-DDE6-4069-9D9A-C8922F44DF95Default.jpg" width="200" height="150"/>
-<img src="https://static.turbosquid.com/Preview/2018/09/05__20_31_50/Solid_TopArmFront.PNG3AA6AA17-12FC-4A3B-B050-D49F2D72D1E0Default.jpg" width="200" height="150"/>
-<img src="https://static.turbosquid.com/Preview/2018/09/05__20_31_50/Wireframe_Front.PNG3CBB453E-B3F5-4C5E-82B7-0E85B4580A27Default.jpg" width="200" height="150"/>
-<img src="https://static.turbosquid.com/Preview/2018/09/05__20_31_50/Wireframe_Side.PNG424FEE11-ED53-428D-AA66-147E26DB77D8Default.jpg" width="200" height="150"/>
-<img src="https://static.turbosquid.com/Preview/2018/09/05__20_31_50/Wireframe_TopArm.PNGF8D9EA55-E049-4A73-B8F6-BF3F574D12EEDefault.jpg" width="200" height="150"/>
-<img src="https://static.turbosquid.com/Preview/2018/09/05__20_31_50/Solid_Front.PNG0689B5DB-AF13-4A4B-B6EA-3B7D08702F44Default.jpg" width="200" height="150"/>
-<img src="https://static.turbosquid.com/Preview/2018/09/05__20_31_50/Solid_FrontSide.PNG67A0EF41-EA61-4E98-A973-D72A3A1F2B1FDefault.jpg" width="200" height="150"/>  
-<img src="https://static.turbosquid.com/Preview/2018/09/05__20_31_50/Solid_BottomToTop.PNG470972EE-64A9-47DB-AB50-39C987383DBBDefault.jpg" width="200" height="150"/>   
-<img src="https://static.turbosquid.com/Preview/2018/09/05__20_31_50/Solid_Front.PNG4C84EE81-BD16-4CEF-9791-31605C47F516Default.jpg" width="200" height="150"/>  
+<img src="https://static.turbosquid.com/Preview/001324/466/MG/DHQ.jpg" width="200" height="150"/>
+<img src="https://static.turbosquid.com/Preview/001324/466/0L/DHQ.jpg" width="200" height="150"/>
+<img src="https://static.turbosquid.com/Preview/001324/466/AS/DHQ.jpg" width="200" height="150"/>
+<img src="https://static.turbosquid.com/Preview/001324/466/9Z/DHQ.jpg" width="200" height="150"/>
+<img src="https://static.turbosquid.com/Preview/001324/466/OE/DHQ.jpg" width="200" height="150"/>
+<img src="https://static.turbosquid.com/Preview/001324/466/QJ/DHQ.jpg" height="150"/>
+<img src="https://static.turbosquid.com/Preview/001324/466/F9/DHQ.jpg" width="200" height="150"/>
+<img src="https://static.turbosquid.com/Preview/2018/09/06__16_00_31/Classical_Front.png05E84EC8-ED06-41E7-BFAF-38791D830F6ADefaultHQ.jpg" width="200" height="150"/>
+<img src="https://static.turbosquid.com/Preview/2018/09/06__16_00_31/Classical_Back.png6E225745-8DEA-42DA-BA5E-4B595219FD2BDefaultHQ.jpg" height="150"/>
+<img src="https://static.turbosquid.com/Preview/2018/09/06__16_00_31/Classical_BottomDetails.png9B573B29-D88D-4876-8EBA-A4B5700B659CDefaultHQ.jpg" width="200" height="150"/>  
+<img src="https://static.turbosquid.com/Preview/2018/09/06__16_00_31/Classical_MiddleDetails.png21FFDE19-D0DC-4E22-983B-5815C9333FA7DefaultHQ.jpg" width="200" height="150"/>   
+<img src="https://static.turbosquid.com/Preview/2018/09/06__16_00_31/Classical_TopSide.png5103E89C-37AE-405D-B9CB-AAF029240E6ADefaultHQ.jpg"/>  
 <img src="https://media.giphy.com/media/jInLcb0d1dntBldj67/giphy.gif" width="200" height="150"/>
 </p>
 
