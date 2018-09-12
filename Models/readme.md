@@ -61,7 +61,7 @@ https://www.turbosquid.com/3d-models/pig-3d-model-1321514
 <img src="https://static.turbosquid.com/Preview/001324/466/UV/DHQ.jpg" width="200" height="150"/>  
 <img src="https://static.turbosquid.com/Preview/2018/09/06__16_00_31/Classical_MiddleDetails.png21FFDE19-D0DC-4E22-983B-5815C9333FA7DefaultHQ.jpg" width="200" height="150"/>   
 <img src="https://static.turbosquid.com/Preview/2018/09/06__16_00_31/Classical_TopSide.png5103E89C-37AE-405D-B9CB-AAF029240E6ADefaultHQ.jpg" width="200" height="150" />  
-<img src="https://media.giphy.com/media/jInLcb0d1dntBldj67/giphy.gif" width="200" height="150" />
+<img src="https://i.giphy.com/media/jInLcb0d1dntBldj67/giphy.webp" width="200" height="150" />
 </p>
 
 https://www.turbosquid.com/3d-models/3d-acoustic-guitars-1324466
