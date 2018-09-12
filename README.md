@@ -5,7 +5,7 @@
 </p>
 
 ## Description
-This is a repository containing 3D models created in Blender and the respective Turbosquid page.
+This is a repository containing 3D models created in Blender and the respective online pages.
 
 ## Collection
 <p float="left">
